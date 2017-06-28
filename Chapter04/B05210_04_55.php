@@ -1,0 +1,1 @@
+mixed __invoke([ $... ])
