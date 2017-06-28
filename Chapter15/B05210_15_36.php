@@ -1,0 +1,1 @@
+$this->getTitle()->shouldBeLike('Yellow');
