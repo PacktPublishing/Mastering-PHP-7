@@ -1,0 +1,1 @@
+\<NamespaceName>(\<SubNamespaceNames>)*\<ClassName>
