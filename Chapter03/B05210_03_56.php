@@ -1,0 +1,8 @@
+    [2016-12-26 12:36:46] foggyline.DEBUG: Logging debug {"user":"john","salary":4500} []
+    [2016-12-26 12:36:46] foggyline.INFO: Logging info {"user":"john","salary":4500} []
+    [2016-12-26 12:36:46] foggyline.NOTICE: Logging notice {"user":"john","salary":4500} []
+    [2016-12-26 12:36:46] foggyline.WARNING: Logging warning {"user":"john","salary":4500} []
+    [2016-12-26 12:36:46] foggyline.ERROR: Logging error {"user":"john","salary":4500} []
+    [2016-12-26 12:36:46] foggyline.CRITICAL: Logging critical {"user":"john","salary":4500} []
+    [2016-12-26 12:36:46] foggyline.ALERT: Logging alert {"user":"john","salary":4500} []
+    [2016-12-26 12:36:46] foggyline.EMERGENCY: Logging emergency  {"user":"john","salary":4500} []
