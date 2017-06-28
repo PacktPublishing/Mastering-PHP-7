@@ -1,0 +1,1 @@
+php -m | grep pcntl
