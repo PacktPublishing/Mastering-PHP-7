@@ -1,0 +1,5 @@
+SET Key1 10
+SET Key2 20
+SET Key3 30
+SET Key4 40
+SET Key5 50
